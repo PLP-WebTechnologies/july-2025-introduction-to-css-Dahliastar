@@ -1,0 +1,58 @@
+/* Element Selector */
+h1 {
+    color:green;
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+}
+/* Class Selector */
+.text {
+    font-size: 20px;
+    color: darkcyan;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid black;
+    background-color: lightgrey;
+}
+/* ID Selector */
+#demo {
+    font-size: 30px;
+    color:brown;
+    font-weight: bold;
+    text-align: right;
+}
+/* Universal Selector */
+* {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Container Class */
+.container {
+    height: 400px;
+    width: 500px;
+    font-size: 20px;
+    color:darkred;
+    background-color: lightblue;
+    margin: 30px;
+    padding: 20px;
+    border: 3px solid coral;
+    text-align: justify;
+}
+/* Button Styles */
+button {
+    background-color: lightgreen;
+    color: white;
+    border: 2px solid black;
+    padding: 10px 20px;
+    margin: 40px;
+    font-size: 16px;   
+    height: 100px;
+    width: 200px;
+    cursor: pointer;
+}
+
+
+
